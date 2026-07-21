@@ -8,6 +8,22 @@ body {
     font-family: "noto sans thai";
 }
 
+body {
+    background-color: colorloop 0.1s infinite alternate;
+}
+
+@keyframe colorloop {
+    0% {
+        baclground-color: red;
+    }
+    50% {
+        baclground-color: green;
+    }
+    100% {
+        baclground-color: blue;
+    }
+}
+
 h1, h2, p {
     color: white;
 }

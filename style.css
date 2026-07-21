@@ -4,11 +4,7 @@
 }
 
 body {
-    /*background-color: rgb(0, 0, 0);*/
     font-family: "noto sans thai";
-}
-
-body {
     animation: colorloop 0.1s infinite alternate;
 }
 

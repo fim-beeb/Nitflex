@@ -9,7 +9,7 @@ body {
 }
 
 body {
-    background-color: colorloop 0.1s infinite alternate;
+    animation: colorloop 0.1s infinite alternate;
 }
 
 @keyframe colorloop {

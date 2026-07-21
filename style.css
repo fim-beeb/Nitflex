@@ -12,7 +12,7 @@ body {
     animation: colorloop 0.1s infinite alternate;
 }
 
-@keyframe colorloop {
+@keyframes colorloop {
     0% {
         background-color: red;
     }

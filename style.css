@@ -14,13 +14,13 @@ body {
 
 @keyframe colorloop {
     0% {
-        baclground-color: red;
+        background-color: red;
     }
     50% {
-        baclground-color: green;
+        background-color: green;
     }
     100% {
-        baclground-color: blue;
+        background-color: blue;
     }
 }
 
